@@ -1,2 +1,2 @@
-# riverboat-solana-v1
-Riverboat public contract v1 for simple prediction resolution.
+# riverboat-solana-v0.1
+Solana prototype for prediction resolution via riverboat.zone
