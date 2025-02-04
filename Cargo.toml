@@ -10,6 +10,11 @@ solana-program = "1.18.26"
 crate-type = ["cdylib", "lib"]
 
 [dev-dependencies]
+solana-client = "1.18.26"
 solana-program-test = "1.18.26"
 solana-sdk = "1.18.26"
 tokio = "1.43.0"
+
+[[example]]
+name = "client"
+path = "examples/client.rs"
